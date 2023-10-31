@@ -1,3 +1,5 @@
 # Demo Repository
+## New Subheading
 
-Some text.
+Replaced this text.
+Additional text to be added in the next commit.
